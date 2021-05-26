@@ -83,7 +83,7 @@ const restart  = ()=>{
  boxes.forEach((box)=>{
   box.innerText = '';
  });
- playtext.innerText = `Let's Play!`
+ playtext.innerText = `XOXO Play!`
  currentPlayer = O_TEXT;
 }
 restartBtn.addEventListener('click',restart); 
